@@ -1,2 +1,3 @@
-# thirdeyeapp
-contains files related to my major project .
+# thirdeye
+front end of the app
+
